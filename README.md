@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE student currently in my **3rd semester**
+- 🎓 CSE student
 - 🤖 My long-term goal is to become an **AI Engineer**
 - 💻 Currently learning **C programming and Data Structures & Algorithms**
 - 🛠️ Building small projects to practice what I learn
 - 🌱 Currently exploring **Git, GitHub, and C++**
-- 🎌 Big **anime fan** outside of coding
+- 🎌 Little **anime fan** outside of coding
 
 ---
 

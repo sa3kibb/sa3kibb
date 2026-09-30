@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakib </h1>
+<h1 align="center">Hi👋, I'm Sakib</h1>
 
 <p align="center">
   <strong>CSE Student • Aspiring AI Engineer • C & Python Learner</strong>
@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 CSE student
-* 🤖 My long-term goal is to become an **AI Engineer**
-* 💻 Currently learning **C programming and Data Structures & Algorithms**
-* 🛠️ Building small projects to practice what I learn
-* 🌱 Currently exploring **Git, GitHub, and C++**
-* 🎌 Little **anime fan** outside of coding
+- 🎓 CSE student currently in my **3rd semester**
+- 🤖 My long-term goal is to become an **AI Engineer**
+- 💻 Currently learning **C programming and Data Structures & Algorithms**
+- 🛠️ Building small projects to practice what I learn
+- 🌱 Currently exploring **Git, GitHub, and C++**
+- 🎌 Big **anime fan** outside of coding
 
 ---
 
@@ -41,43 +41,70 @@
 
 ## 📚 Currently Learning
 
-* 💻 C Programming
-* 🧩 Data Structures & Algorithms
-* 🐍 Python
-* 🔧 Git & GitHub
-* ⚙️ C++
+<p align="left">
+  <img src="https://img.shields.io/badge/C%20Programming-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Programming" />
+  <img src="https://img.shields.io/badge/Data%20Structures-Learning-7C3AED?style=for-the-badge" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-Learning-8B5CF6?style=for-the-badge" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learning-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Next%20Step-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
 ---
 
 ## 🎯 My Goal
 
-My goal is to become an **AI Engineer**.
+My long-term goal is to become an **AI Engineer**.
+Right now, I'm focusing on building a strong programming foundation.
 
-Right now, I'm focusing on building a strong programming foundation first.
-
-**Current Focus**
-
-`C` `DSA` `Python` `Git` `C++`
-
-**Future Learning**
-
-`Mathematics` → `Machine Learning` → `Deep Learning` → `AI Engineering`
+```text
+C Programming
+      ↓
+Data Structures & Algorithms
+      ↓
+Mathematics
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+AI Engineering
+```
 
 ---
 
 ## 🚀 Projects
 
 ### 📅 Calendar Application
-
 A console-based calendar application built with C.
 
 **Tech:** C • Console Application
 
-🔗 [View Repository](https://github.com/sa3kibb)
+<a href="https://github.com/sa3kibb/Calendar-Application">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 
 ### 🔨 More Projects Coming Soon
-
 I'm building more projects as I improve my programming and problem-solving skills.
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa3kibb/sa3kibb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa3kibb/sa3kibb/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sa3kibb/sa3kibb/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sa3kibb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -86,64 +113,4 @@ I'm building more projects as I improve my programming and problem-solving skill
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sa3kibb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa3kibb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sa3kibb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sa3kibb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa3kibb/sa3kibb/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa3kibb/sa3kibb/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sa3kibb/sa3kibb/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa3kibb&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammadsakibulislm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://github.com/sa3kibb">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Learn. Build. Improve. Repeat.”</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>

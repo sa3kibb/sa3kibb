@@ -91,7 +91,7 @@ I'm building more projects as I improve my programming and problem-solving skill
 ## 📫 Contact
 
 <p align="left">
-  <a href="mailto:mohammadsakibulislm@gmail.com">
+  <a href="mailto: mohammadsakibulislm@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/sa3kibb">
